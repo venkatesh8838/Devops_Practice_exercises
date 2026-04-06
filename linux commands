@@ -1,0 +1,37 @@
+ls – List directories
+pwd – Print working directory
+cd – Navigate through directories
+mkdir – Create directories
+mv – Move or rename files
+cp – Copy files
+rm – Delete files or directories
+touch – Create blank/empty files
+ln – Create symbolic links (shortcuts)
+cat – Display file contents
+clear – Clear the terminal display
+echo – Print text to terminal
+man – Access manual pages for commands
+uname – Get basic OS information
+whoami – Show active username
+tar – Extract and compress files
+grep – Search for a string in output
+head – Show lines from the top of a file
+tail – Show lines from the bottom of a file
+export – Export environment variables
+zip – Zip files
+unzip – Unzip files
+ssh – Secure shell access
+service – Start/stop services
+ps – Display active processes
+kill / killall – Terminate processes by ID or name
+df – Show disk filesystem info
+chmod – Change file permissions
+ifconfig – Show network interfaces and IPs
+wget – Download files from the internet
+ufw – Firewall management
+apt / pacman / yum / rpm – Package managers (distro-specific)
+sudo – Run commands with elevated privileges
+alias – Create custom command shortcuts
+whereis – Locate binary, source, and manual pages
+whatis – Show what a command does
+top – View live processes and system usage
